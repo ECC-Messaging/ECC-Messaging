@@ -6,7 +6,7 @@
 	path = backend
 	url = git@github.com:ECC-Messaging/ECC-Messaging-Back-end
 	branch = main
-[submodule "Pacakage"]
+[submodule "package"]
 	path = Package
 	url = git@github.com:ECC-Messaging/ECC-Messaging-Scheme-Package.git
 	branch = main
