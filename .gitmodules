@@ -2,10 +2,6 @@
 	path = frontend
 	url = git@github.com:ECC-Messaging/ECC-Messaging-Front-end
 	branch = main
-[submodule "backend"]
-	path = backend
-	url = git@github.com:ECC-Messaging/ECC-Messaging-Back-end
-	branch = main
 [submodule "package"]
 	path = Package
 	url = git@github.com:ECC-Messaging/ECC-Messaging-Scheme-Package.git
