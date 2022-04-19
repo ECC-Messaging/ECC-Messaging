@@ -1,8 +1,7 @@
-[submodule "frontend"]
-	path = frontend
-	url = git@github.com:ECC-Messaging/ECC-Messaging-Front-end
+[submodule "Frontend"]
+	path = Frontend
+	url = git@github.com:ECC-Messaging/ECC-Messaging-Front-end.git
 	branch = main
-[submodule "package"]
+[submodule "Package"]
 	path = Package
 	url = git@github.com:ECC-Messaging/ECC-Messaging-Scheme-Package.git
-	branch = main
